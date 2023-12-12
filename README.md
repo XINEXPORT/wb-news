@@ -8,3 +8,6 @@
 
 # Run npx nodemon server/server.js -w server to launch local host 
 
+Medium.jsx has an example of the dispatch being called useEffect
+
+![useeffect-dispatch](https://github.com/XINEXPORT/wb-news/assets/40744735/d90bb615-8475-4690-a4bc-0a5685b50c1a)
